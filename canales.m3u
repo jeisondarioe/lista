@@ -35,9 +35,16 @@ https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.19
 #EXTINF:-1 ,CANAL CITY TV
 https://83kqwfdgnstvts9c.cdnspectrum.net:8443/hls/gm6kmbe.m3u8?s=cPcdXnRsFgy9EEig-YMWEg&e=1689222144
 #EXTINF:-1 ,CANAL RCN
-https://83kqwfdgnstvts9c.cdnspectrum.net:8443/hls/ndazjhsdjr5o.m3u8?s=fdG5UcTiqKcXgtNEflK_kA&e=1689222188
+https://83kqwfdgnstvts9c.cdnspectrum.net:8443/hls/ndazjhsdjr5o.m3u8?s=y5ZYNiOHFgILBS62kefb4w&e=1689222415
 #EXTINF:-1 ,CANAL UNO
 https://83kqwfdgnstvts9c.cdnspectrum.net:8443/hls/9z8hr.m3u8?s=v1lAtzui5mENhNmC30-1jw&e=1689222221
+#EXTINF:-1 ,CANAL CAPITAL
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8
+#EXTINF:-1 ,CARTOON
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 ,CANAL HYSTORY
+#EXTINF:-1 ,CANAL HYSTORY
+#EXTINF:-1 ,CANAL HYSTORY
 #EXTINF:-1 ,CANAL HYSTORY
 #EXTINF:-1 ,CANAL HYSTORY
 #EXTINF:-1 ,CANAL HYSTORY
